@@ -1,0 +1,4 @@
+- Hi, I am Sabrina @sabrina-2
+- I am a Data Science Major @ Drexel University
+- I am currently working @Susquehanna International Group as a Software Development Automation Testing co-op
+- Contact: sabrina.akter@drexel.edu
